@@ -1,0 +1,1 @@
+The main goal of the Online Retail ETL pipeline is to clean, preprocess, and structure raw transactional data from an e-commerce platform so it can be used for meaningful business analysis or machine learning tasks.
